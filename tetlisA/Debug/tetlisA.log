@@ -1,0 +1,4 @@
+﻿  tetlisA.cpp
+C:\Users\yushi\source\repos\tetlisA\tetlisA\tetlisA.cpp(355,9): warning C4101: 'y': ローカル変数は 1 度も使われていません。
+C:\Users\yushi\source\repos\tetlisA\tetlisA\tetlisA.cpp(355,6): warning C4101: 'x': ローカル変数は 1 度も使われていません。
+  tetlisA.vcxproj -> C:\Users\yushi\source\repos\tetlisA\Debug\tetlisA.exe
